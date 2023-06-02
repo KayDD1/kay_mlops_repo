@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/42e071d495494f93ac2d1da77d2511db/artifacts
+end_time: 1685618782862
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42e071d495494f93ac2d1da77d2511db
+run_name: colorful-worm-787
+run_uuid: 42e071d495494f93ac2d1da77d2511db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685618766426
+status: 3
+tags: []
+user_id: ubuntu

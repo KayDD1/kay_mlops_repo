@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/cc7fc4e016414fdea9111a78a6cefd4e/artifacts
+end_time: 1685618267603
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc7fc4e016414fdea9111a78a6cefd4e
+run_name: bedecked-bat-427
+run_uuid: cc7fc4e016414fdea9111a78a6cefd4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685618258480
+status: 3
+tags: []
+user_id: ubuntu

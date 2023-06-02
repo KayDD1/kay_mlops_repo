@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/c7aa805f3d4a425698120128e949218d/artifacts
+end_time: 1685619693746
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7aa805f3d4a425698120128e949218d
+run_name: treasured-bee-973
+run_uuid: c7aa805f3d4a425698120128e949218d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685619684692
+status: 3
+tags: []
+user_id: ubuntu

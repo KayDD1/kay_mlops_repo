@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/38098d0a85e74e579d39cc813b002bee/artifacts
+end_time: 1685661723373
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38098d0a85e74e579d39cc813b002bee
+run_name: popular-mare-678
+run_uuid: 38098d0a85e74e579d39cc813b002bee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685661711816
+status: 3
+tags: []
+user_id: ubuntu

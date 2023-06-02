@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/c780f22355e544c49345642dd2aae329/artifacts
+end_time: 1685662168778
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c780f22355e544c49345642dd2aae329
+run_name: beautiful-fawn-663
+run_uuid: c780f22355e544c49345642dd2aae329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685662157634
+status: 3
+tags: []
+user_id: ubuntu

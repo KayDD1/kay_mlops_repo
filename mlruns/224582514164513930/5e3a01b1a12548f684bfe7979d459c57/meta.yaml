@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/224582514164513930/5e3a01b1a12548f684bfe7979d459c57/artifacts
+end_time: 1685617418591
+entry_point_name: ''
+experiment_id: '224582514164513930'
+lifecycle_stage: active
+run_id: 5e3a01b1a12548f684bfe7979d459c57
+run_name: sassy-fawn-151
+run_uuid: 5e3a01b1a12548f684bfe7979d459c57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685617404761
+status: 3
+tags: []
+user_id: ubuntu

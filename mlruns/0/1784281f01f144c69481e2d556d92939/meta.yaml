@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/1784281f01f144c69481e2d556d92939/artifacts
+end_time: 1685614090361
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1784281f01f144c69481e2d556d92939
+run_name: enchanting-toad-635
+run_uuid: 1784281f01f144c69481e2d556d92939
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685614076192
+status: 3
+tags: []
+user_id: ubuntu

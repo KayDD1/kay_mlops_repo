@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/a1f593014865445a8c7cb13596168c8e/artifacts
+end_time: 1685658831820
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1f593014865445a8c7cb13596168c8e
+run_name: bouncy-mouse-220
+run_uuid: a1f593014865445a8c7cb13596168c8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685658821179
+status: 3
+tags: []
+user_id: ubuntu

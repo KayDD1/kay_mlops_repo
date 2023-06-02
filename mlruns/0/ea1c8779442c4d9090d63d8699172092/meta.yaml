@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/ea1c8779442c4d9090d63d8699172092/artifacts
+end_time: 1685661677947
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea1c8779442c4d9090d63d8699172092
+run_name: sassy-crane-457
+run_uuid: ea1c8779442c4d9090d63d8699172092
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685661667078
+status: 3
+tags: []
+user_id: ubuntu

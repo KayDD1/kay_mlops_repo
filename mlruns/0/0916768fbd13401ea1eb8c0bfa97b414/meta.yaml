@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/0916768fbd13401ea1eb8c0bfa97b414/artifacts
+end_time: 1685618825733
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0916768fbd13401ea1eb8c0bfa97b414
+run_name: fortunate-donkey-651
+run_uuid: 0916768fbd13401ea1eb8c0bfa97b414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685618810382
+status: 3
+tags: []
+user_id: ubuntu

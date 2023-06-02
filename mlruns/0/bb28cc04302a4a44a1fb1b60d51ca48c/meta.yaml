@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/bb28cc04302a4a44a1fb1b60d51ca48c/artifacts
+end_time: 1685613967498
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb28cc04302a4a44a1fb1b60d51ca48c
+run_name: bright-wren-388
+run_uuid: bb28cc04302a4a44a1fb1b60d51ca48c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685613944860
+status: 3
+tags: []
+user_id: ubuntu
